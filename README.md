@@ -49,5 +49,4 @@ Technologies and Libraries Used:
 **statsmodels: For implementing ARIMA modeling and statistical tests.
 **scikit-learn: For data scaling and evaluation metrics like RMSE.
 **keras and tensorflow: For building and training the LSTM neural network model.
-**Outcome:
-The script provides a forecast of future stock prices using both ARIMA (linear) and LSTM (non-linear) models. The results are compared visually and quantitatively to assess which model better captures the underlying patterns in the stock data.
+
