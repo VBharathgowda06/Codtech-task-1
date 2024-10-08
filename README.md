@@ -4,6 +4,8 @@
 **Domain:Data Science
 **Duration:September 25/9/2024 to October 25/10/2024
 **Mentor:Muzammil
+
+
 ##Overview of Stock Market Prediction Using ARIMA and LSTM Models
 **Objective:
 The primary goal of this script is to predict future stock prices using time series analysis techniques. The script utilizes two models, ARIMA and LSTM, to forecast future stock prices based on historical data. The objective is to compare the performance of both models in capturing trends and predicting future stock prices.
