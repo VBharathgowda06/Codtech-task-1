@@ -46,3 +46,4 @@ matplotlib and seaborn: For plotting and visualizing data trends.<br/>
 statsmodels: For implementing ARIMA modeling and statistical tests.<br/>
 scikit-learn: For data scaling and evaluation metrics like RMSE.<br/>
 keras and tensorflow: For building and training the LSTM neural network model.<br/>
+![Screenshot 2024-10-08 112258](https://github.com/user-attachments/assets/71039544-40e1-4770-852a-bcee96f48925)
